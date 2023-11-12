@@ -1,0 +1,47 @@
+
+.services-section,
+.about-section,
+.contact-section,
+.store-section {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.service,
+.product {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.service img,
+.product img {
+    max-width: 100%;
+    height: 450px;
+    margin-bottom: 10px;
+}
+
+.service h2,
+.product h2 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.service p,
+.product p {
+    font-size: 3rem;
+}
+#cart{
+   
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}   
+
+button{
+    font-size: 3rem;
+}
